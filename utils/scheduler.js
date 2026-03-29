@@ -1,10 +1,13 @@
 import cron from "node-cron";
-import { load } from "./db.js";
+import fs from 'fs';
+import path from 'path';
 
-function startScheduler(sock) {
+export function startScheduler(sock) {
+  const sessionPath = path.resolve('data/sessions.json');
+
   // Session reminder every minute check
   cron.schedule("* * * * *", () => {
-    const sessions = load("./data/sessions.json");
+    const sessions = JSON.parse(fs.readFileSync(sessionPath, 'utf8'));
 
     const now = new Date();
     sessions.forEach(s => {
@@ -26,5 +29,3 @@ function startScheduler(sock) {
     });
   });
 }
-
-module.exports = { startScheduler };
