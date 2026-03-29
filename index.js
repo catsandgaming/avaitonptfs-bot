@@ -1,8 +1,9 @@
-import { makeWASocket, useMultiFileAuthState, DisconnectReason } from '@whiskeysockets/baileys'; 
+import { makeWASocket, useMultiFileAuthState, DisconnectReason, Browsers } from '@whiskeysockets/baileys'; 
 import { createRequire } from 'module';
 import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
+import qrcode from 'qrcode-terminal';
 
 // Load environment variables from `.env` file
 dotenv.config();
@@ -16,10 +17,17 @@ import miscCommands from './commands/misc.js';
 
 // Prepare and load bot commands
 const commandPrefix = '!'; // Prefix for commands
+const AUTH_PATH = './auth_info_multi';
 
 // Command handler
 const handleCommand = async (socket, message) => {
-  const body = message.message?.conversation || message.message?.extendedTextMessage?.text || "";
+  const messageContent = message.message;
+  const body = 
+    messageContent?.conversation || 
+    messageContent?.extendedTextMessage?.text || 
+    messageContent?.imageMessage?.caption || 
+    messageContent?.videoMessage?.caption || 
+    "";
   const sender = message.key.remoteJid;
 
   // Spam Filter: Deletes "Pluh" or "Bro" (Simulation - usually requires admin perms)
@@ -66,11 +74,12 @@ const initBot = async () => {
   console.log('Bot starting...');
 
   // Define folder for multi-file auth state
-  const { state, saveCreds } = await useMultiFileAuthState('./auth_info_multi');
+  const { state, saveCreds } = await useMultiFileAuthState(AUTH_PATH);
 
   // Create WASocket
   const socket = makeWASocket({
-    auth: state
+    auth: state,
+    browser: ['PTFS Bot', 'Chrome', '1.0.0']
   });
 
   // Save credentials whenever updated
@@ -78,13 +87,31 @@ const initBot = async () => {
 
   // Handle connection updates
   socket.ev.on('connection.update', (update) => {
-    const { connection, lastDisconnect } = update;
+    const { connection, lastDisconnect, qr } = update;
+
+    if (qr) {
+      console.log('New QR code generated. Scan to link:');
+      qrcode.generate(qr, { small: true });
+    }
 
     if (connection === 'close') {
-      const shouldReconnect = lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut;
-      console.log('Connection closed. Reconnecting:', shouldReconnect);
+      const statusCode = lastDisconnect?.error?.output?.statusCode;
+      const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
+      
+      if (statusCode === 405) {
+        console.error('Critical Connection Error (405): Session Conflict. Clearing session and cooling down...');
+        try {
+          fs.rmSync(AUTH_PATH, { recursive: true, force: true });
+          console.log(`Successfully cleared ${AUTH_PATH}. A new QR will be required.`);
+        } catch (err) {
+          console.error('Failed to clear session folder:', err);
+        }
+      } else {
+        console.log(`Connection closed (Status: ${statusCode || 'Unknown'}). Reconnecting: ${shouldReconnect}`);
+      }
+      
       if (shouldReconnect) {
-        initBot();
+        setTimeout(() => initBot(), 5000); // 5-second delay to prevent loops
       }
     } else if (connection === 'open') {
       console.log('Connection established!');
