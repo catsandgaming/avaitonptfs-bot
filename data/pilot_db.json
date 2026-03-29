@@ -1,0 +1,28 @@
+{
+  "pilots": [
+    {
+      "name": "Ted S",
+      "flights": 100,
+      "role": "Instructor/Pilot",
+      "status": "Active"
+    },
+    {
+      "name": "Aleena",
+      "flights": 4,
+      "role": "Instruction/In Training",
+      "status": "In Training"
+    },
+    {
+      "name": "Ted A",
+      "flights": 1,
+      "role": "Not Passed",
+      "status": "Awaiting Role Placement"
+    },
+    {
+      "name": "Lois",
+      "flights": "n/a",
+      "role": "Awaiting Role Placement",
+      "status": "Awaiting Role Placement"
+    }
+  ]
+}

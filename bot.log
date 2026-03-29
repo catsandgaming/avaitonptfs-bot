@@ -1,0 +1,2205 @@
+[2026-03-29T06:39:47.576Z] {
+  "sender": "447534580655@s.whatsapp.net",
+  "cmd": "",
+  "args": [
+    ""
+  ],
+  "chatId": "447534580655@s.whatsapp.net",
+  "timestamp": "2026-03-29T06:39:47.576Z"
+}
+[2026-03-29T06:39:58.712Z] {
+  "sender": "447534580655@s.whatsapp.net",
+  "cmd": "",
+  "args": [
+    ""
+  ],
+  "chatId": "447534580655@s.whatsapp.net",
+  "timestamp": "2026-03-29T06:39:58.712Z"
+}
+[2026-03-29T06:40:05.496Z] {
+  "sender": "447534580655@s.whatsapp.net",
+  "cmd": "",
+  "args": [
+    ""
+  ],
+  "chatId": "447534580655@s.whatsapp.net",
+  "timestamp": "2026-03-29T06:40:05.495Z"
+}
+[2026-03-29T14:42:41.336Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB08B756E09B6F6B9104C",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795358,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!HELP",
+    "senderKeyDistributionMessage": {
+      "groupId": "120363407526125638@g.us",
+      "axolotlSenderKeyDistributionMessage": "MwiRk8+kBBAAGiAApxAXhT5Emy7OA4aI7X/dt4x8y4w8shLIhjQR6H72ySIhBY2QwYzqs8oXtBWbt6jg9YTC3xPBfrK2fCy7Yv03yXEQ"
+    },
+    "messageContextInfo": {
+      "messageSecret": "jTl7r6QKyxTjkW54Ge5X4mJvNYY2GUUVK1nW13lbRwQ="
+    }
+  }
+}
+[2026-03-29T14:42:57.224Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0D1369D1FEEC2209A0C",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795375,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!LEADERBOARD",
+    "messageContextInfo": {
+      "messageSecret": "UX6c+CD0FzPMCwJmg5oDml2R3GD1CgYC/VsgIyiAYoM="
+    }
+  }
+}
+[2026-03-29T14:45:09.611Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC72CAF2B42F8C02456E04C2556F3C34",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795507,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!help",
+    "messageContextInfo": {
+      "messageSecret": "0uZGDHgKKe4DhuGNoYd2GNQFLSwzKTKfJnEBH3q6EEo="
+    }
+  }
+}
+[2026-03-29T14:45:18.588Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "ACB31050B455A07D242150DCF566486A",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795516,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!help",
+    "messageContextInfo": {
+      "messageSecret": "ri4CEHHsbbPvaTuqqoUzOvydSFhUlT3Fe11OjAz/tlg="
+    }
+  }
+}
+[2026-03-29T14:45:28.959Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "ACCC4FB25BE32DEAC0DDAB39287443A6",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795527,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!help",
+    "messageContextInfo": {
+      "messageSecret": "oUmicPMBWwKbIqi4xsOFT3wFz2xySjAq7pLgPsUzLZE="
+    }
+  }
+}
+[2026-03-29T14:45:52.541Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC971959C8D99A5BAB9AE8F1EB27512F",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795550,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!squawk",
+    "messageContextInfo": {
+      "messageSecret": "ME4di1N8TCDbQscSNeg+weOgwXZy6GwFIXZjUtP19n0="
+    }
+  }
+}
+[2026-03-29T14:46:06.055Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC7B62C12978B23803879687EE3CF545",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795564,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!roger",
+    "messageContextInfo": {
+      "messageSecret": "lOpM9g1CvUiTzytP1ZY6Yeh954XWQsCqWm43SGUAPqg="
+    }
+  }
+}
+[2026-03-29T14:46:14.189Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC42209B10C6DA7FCA759F0DD92142E8",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795572,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!roger",
+    "messageContextInfo": {
+      "messageSecret": "8WOGPkDaF5u//xM28q+2A24SoWTRbjM8mas7KY9DCxE="
+    }
+  }
+}
+[2026-03-29T14:46:18.980Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB066A1ACC6EC7994427B",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795577,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "8UZD6/HVM0h4XdgUaIEyKRKkWAEGEwCR9oKeNwaj7jY="
+    }
+  }
+}
+[2026-03-29T14:46:21.353Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "ACE657F4A674D393D473A6BD8CE255D7",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795579,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!promote",
+    "messageContextInfo": {
+      "messageSecret": "XrcePYztjFlNgvLTjSnYYb5q2u1WAFSdUruL0xKBiGs="
+    }
+  }
+}
+[2026-03-29T14:46:25.306Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC181865FB2222061FBAEF2C04D3AEBC",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795583,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!stars",
+    "messageContextInfo": {
+      "messageSecret": "D0XXbqUOQmNVa0uQTdIVwsgayJNIS2GNDZDdDrXfe48="
+    }
+  }
+}
+[2026-03-29T14:46:29.053Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC1C356C7C7BA1B2A9AEB4C81BDAB3C5",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795587,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "puwVP/7Yz9yPLwl32+PPSE7/ZWc46/4hmjMSMVKogDA="
+    }
+  }
+}
+[2026-03-29T14:46:33.723Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB08409C7BEF0A599FB39",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795591,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!stat",
+    "messageContextInfo": {
+      "messageSecret": "2M0G0za+UUBofg5pPCe7PdEJK7TJ5KwR0VyQVYOpWD4="
+    }
+  }
+}
+[2026-03-29T14:46:39.960Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC7FD0082B68267461F743F5DAB5F742",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795597,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!taxi",
+    "messageContextInfo": {
+      "messageSecret": "DanX9MsR/Ly0DHMj9b94/6bEKGr8Q8gn27nnSaUw61Y="
+    }
+  }
+}
+[2026-03-29T14:46:44.222Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB02D4375FAE7E187CD35",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795602,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!spin",
+    "messageContextInfo": {
+      "messageSecret": "lGwEkd7c1kTIyGoozmX5CdTAytS7gqjXvfjoMJii9Gk="
+    }
+  }
+}
+[2026-03-29T14:46:45.925Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC6177C142665FBD67935F93730085BA",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795604,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!stat",
+    "messageContextInfo": {
+      "messageSecret": "CtL25ZUFqIojZdNgbW25gfvHtr/X7CGgaHdw0qxuVBA="
+    }
+  }
+}
+[2026-03-29T14:47:45.767Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB06295908ADA7E54504A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795663,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!score",
+    "messageContextInfo": {
+      "messageSecret": "AOV+5hQRIT8+RNr6B5C9KTwq2OaSfo0fv69+dxcOwlc="
+    }
+  }
+}
+[2026-03-29T14:47:47.592Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB03DE41FFCCC33A77077",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795665,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "Dw5V7qN3Sgk3x0cOwMXxckLp0pXSX2cnGEhp0lQAQKY="
+    }
+  }
+}
+[2026-03-29T14:47:53.444Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0BAE79DB4712E53A6D8",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795671,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!vspeeds",
+    "messageContextInfo": {
+      "messageSecret": "8vwMsxnS53Xo9Lwyf/4l7EGEooFHl/p2GhK/eKfXcsQ="
+    }
+  }
+}
+[2026-03-29T14:47:55.895Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0FC01ACB48E8ACC9802",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795673,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!schedule",
+    "messageContextInfo": {
+      "messageSecret": "KRpOkKlCHZkKacDvX4SK7ccyf58buhFutEXgw0CMTMo="
+    }
+  }
+}
+[2026-03-29T14:47:59.838Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB099085BD22714B391F7",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795677,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!join",
+    "messageContextInfo": {
+      "messageSecret": "9vOiNCzctEeOrxtL5VK9Uvpo4ulOw66AWdp95rheQog="
+    }
+  }
+}
+[2026-03-29T14:48:01.379Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0DDA9C3CAD3ED21743A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795679,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!rules",
+    "messageContextInfo": {
+      "messageSecret": "xNBQasIUmqQyYEqhNquTjj8WuCmlzaF6mXxEcABTkSA="
+    }
+  }
+}
+[2026-03-29T14:48:06.360Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0FE0D84701F838FA59A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795684,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!leaderboard",
+    "messageContextInfo": {
+      "messageSecret": "E2LOtBf+go7c0uNmz9V/xX8koAuLomdJjIN43pX3yc0="
+    }
+  }
+}
+[2026-03-29T14:48:08.729Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0526A0993DF0D2C9973",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795686,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!book",
+    "messageContextInfo": {
+      "messageSecret": "Rgn4qyWC2Ivx7XkX9KXfb8QwB5MUkulTzMuPDiyGARo="
+    }
+  }
+}
+[2026-03-29T14:48:11.777Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB09C36A96758FB507FA5",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795689,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!taxi",
+    "messageContextInfo": {
+      "messageSecret": "mhC5WegYESmk7t2P8aBrZfwMcSQ5FBRaLgWGQgY8us0="
+    }
+  }
+}
+[2026-03-29T14:48:14.252Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB005A6BB5963B590DF70",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795692,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!takeoff",
+    "messageContextInfo": {
+      "messageSecret": "eV2UTdfqKnJHODbSTO4xM9kglJoGsS5cQEzB1j8ET0M="
+    }
+  }
+}
+[2026-03-29T14:48:18.497Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0DF6CC672AE0D4B1D06",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795696,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!altitude",
+    "messageContextInfo": {
+      "messageSecret": "ra2yZ61VyY0QGFoSF+eSpmYRFj1nj13GPL0ymogomDI="
+    }
+  }
+}
+[2026-03-29T14:48:21.947Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB030E2526C1086B1B1F0",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795700,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!heading",
+    "messageContextInfo": {
+      "messageSecret": "kyAU1aHQlySW6frpMaVnDnjDztJP+Ks461gu2KoQB2E="
+    }
+  }
+}
+[2026-03-29T14:48:24.178Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB019AEA02A64DD25FBE9",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795702,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!landing",
+    "messageContextInfo": {
+      "messageSecret": "pSvYOVBKZwqRjj526SlxtkUL79Wele1uWFwbgzqBRIU="
+    }
+  }
+}
+[2026-03-29T14:48:26.721Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB05EEB8A62127FAFF97A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795704,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!coms",
+    "messageContextInfo": {
+      "messageSecret": "mNnilHf7g/V2udtyavIx8VtQm8+worGphJBLkt1G7ac="
+    }
+  }
+}
+[2026-03-29T14:48:29.648Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0C40293C1B889FEA462",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795707,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!sessions",
+    "messageContextInfo": {
+      "messageSecret": "tTOsIHBAae4c26STc+TiRhyoDubIoH8VyXYeQS9DobU="
+    }
+  }
+}
+[2026-03-29T14:48:32.123Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB06C76906FD2D4BEFA02",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795710,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!tips",
+    "messageContextInfo": {
+      "messageSecret": "lfBuUfkxpqJRdR6WahXvP/vrqLMfM1GMdVfqzc9LPPE="
+    }
+  }
+}
+[2026-03-29T14:48:37.735Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0946186AF1898DD68FF",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795715,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!plane",
+    "messageContextInfo": {
+      "messageSecret": "xNIkgUqbeSoDX3p1r13cmUyrr2nT8srChXuyFJT09MI="
+    }
+  }
+}
+[2026-03-29T14:48:40.703Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E82F6BDE7DA6C59872",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795718,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!route",
+    "messageContextInfo": {
+      "messageSecret": "FDQnFRHrsMxlMEUxN9gV+xwJMCPqQVMaxQBARAa1voQ="
+    }
+  }
+}
+[2026-03-29T14:48:44.755Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0865FA4920C668F549F",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795722,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!ping",
+    "messageContextInfo": {
+      "messageSecret": "f11Q+KIH9WPX3lp7HgR1RteDHas+RBuzG1JG9Qf1Z4o="
+    }
+  }
+}
+[2026-03-29T14:48:46.983Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB03748BD67960C0F61C8",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795725,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!id",
+    "messageContextInfo": {
+      "messageSecret": "d3K9+goZKqe+TrDV2i3smqC8Gj9xOYasxT2ruwcv5J8="
+    }
+  }
+}
+[2026-03-29T14:48:50.801Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB00E033F3C963A6B9B9D",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795728,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!weather",
+    "messageContextInfo": {
+      "messageSecret": "YXVvU0rJxpdmb9qGnS9eSSalN1LgBhuEN1ETrvXk5cg="
+    }
+  }
+}
+[2026-03-29T14:48:53.799Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E50D6D90F04728E9F6",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795731,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!incident",
+    "messageContextInfo": {
+      "messageSecret": "iVaDW4giaHRM5cJJVNVlyRmfGcsZzuP9yulImsLn+yk="
+    }
+  }
+}
+[2026-03-29T14:48:57.665Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB060BBFE66E3A1BE92E6",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795735,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!randompilot",
+    "messageContextInfo": {
+      "messageSecret": "TLq+yvazZLGxHVBawRo6yGwczdyFSLHP3/ag+vAMYAU="
+    }
+  }
+}
+[2026-03-29T14:49:02.975Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB00DA19EFA71B4A5E814",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795741,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!certificate",
+    "messageContextInfo": {
+      "messageSecret": "T7q+Wfqb+WmgP/iJ32huWlSYyiWlgYtjK9I15JZTBqc="
+    }
+  }
+}
+[2026-03-29T14:49:05.036Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0D35CDE5EE6BA4317C2",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795743,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!badge",
+    "messageContextInfo": {
+      "messageSecret": "GLl1XngPXpyommleRLZ1IvIS5yqNEgawoZlGr5Vo12E="
+    }
+  }
+}
+[2026-03-29T14:49:06.273Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E17A15E4D686C84D34",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795744,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!map",
+    "messageContextInfo": {
+      "messageSecret": "TVmXbg+NuvzviI1mUKKDWyePF3HtYwD4oxugmsMZlIo="
+    }
+  }
+}
+[2026-03-29T14:49:13.440Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB093F1ADBB605E82B574",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795751,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!promote",
+    "messageContextInfo": {
+      "messageSecret": "1th2G/kr5sV1l19vGXlsX7I1FHm8LAwzKFiTo8rFcS8="
+    }
+  }
+}
+[2026-03-29T14:49:18.501Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB00B692F0CC2C9B26744",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795756,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!demote",
+    "messageContextInfo": {
+      "messageSecret": "BD/tAgSl8fSMIp0vSoGCyPDqxTYkDYHztOBS0kbXbx8="
+    }
+  }
+}
+[2026-03-29T14:49:20.743Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB03C27BAE9DB57066B65",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795758,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!reset",
+    "messageContextInfo": {
+      "messageSecret": "e7kryVapSSF1NZO/iSlQLsEl728mpIGrkF82nkhl0Zw="
+    }
+  }
+}
+[2026-03-29T14:49:23.295Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0ACD4DA0EDF1C1C5312",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795761,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!warn",
+    "messageContextInfo": {
+      "messageSecret": "fH14j5PNVvR7E4/kNBINev1ZxNcrB4U9ciAwO2FrHaM="
+    }
+  }
+}
+[2026-03-29T14:49:24.809Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB019C94B8D0B4A7F9BBE",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795762,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!kick",
+    "messageContextInfo": {
+      "messageSecret": "qRc/Zl/A22oAnECo40lUnLY8RbWIc3oOSl8gw/CdLfI="
+    }
+  }
+}
+[2026-03-29T14:49:29.157Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E0C624BBDF1DFB9846",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795767,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!shutdown",
+    "messageContextInfo": {
+      "messageSecret": "rkTVz9KNS3cMsu+KXQGKzKfZ4PTFVxPc9XY8vzesUUA="
+    }
+  }
+}
+[2026-03-29T14:49:33.830Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB013BA43CDE1DA2270C8",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795771,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!notam",
+    "messageContextInfo": {
+      "messageSecret": "8CdCJxeCwEpRIIg/iYiLProQsD+C9RwW10GwjWPBZU4="
+    }
+  }
+}
+[2026-03-29T14:49:36.196Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB090EFB5E568838563A9",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795774,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!metar",
+    "messageContextInfo": {
+      "messageSecret": "hMZ5PZY2ZSS7ALcb4x6bXIt0RhNcEN1IOtpEKjciof0="
+    }
+  }
+}
+[2026-03-29T14:49:40.809Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0645B75CA64D8AB02BF",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795778,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!squawk",
+    "messageContextInfo": {
+      "messageSecret": "qrwfes5zftnPWjcTufJ/vE81zLZYCznlXyon99ig9Ps="
+    }
+  }
+}
+[2026-03-29T14:49:44.677Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E9DE58C755EBE12A9B",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795782,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!vector",
+    "messageContextInfo": {
+      "messageSecret": "SZnvvfFUXIBBi0k2V2xncDGHrNvnUMlT8yDsLs7y8PQ="
+    }
+  }
+}
+[2026-03-29T14:49:47.515Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0C132112C3A3F19AE5B",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795785,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!checkride",
+    "messageContextInfo": {
+      "messageSecret": "fPK611sXgTFSRsphYShR33SXIYHFZaitOVkOQh17Vpg="
+    }
+  }
+}
+[2026-03-29T14:49:49.446Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB053DE87374CE5DE5DB2",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795787,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!fuel",
+    "messageContextInfo": {
+      "messageSecret": "MZtQMBQ5E6kyJegp/OzERWRqrFtSvEP+nLhIS0vbXyk="
+    }
+  }
+}
+[2026-03-29T14:49:50.962Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB05A41D9C664A2C9679A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795789,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!atc",
+    "messageContextInfo": {
+      "messageSecret": "ZJclaq58jo3Kw60UUpDkzxJO6762toiTYf5x9urZV98="
+    }
+  }
+}
+[2026-03-29T14:49:53.935Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB099ABDB9851D06E9772",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795791,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!roger",
+    "messageContextInfo": {
+      "messageSecret": "Xq7uyPAeVvM04a1Hos6r9q9oQOaOaYXlgspwqwfRyWo="
+    }
+  }
+}
+[2026-03-29T14:49:59.039Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0EA2074C4B3CB08420B",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774795797,
+  "pushName": "447534580655",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!help",
+    "messageContextInfo": {
+      "messageSecret": "TXaRGdN7PPplgnNKLD9JAEtkNozPGJoxG1eKd92QBYc="
+    }
+  }
+}
+[2026-03-29T14:53:27.124Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB05002AC6AE06013EA65",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796004,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "7lnmFI/exRg9RMaroXjAlnlLKNwhnYHqMutPE4a4bUQ="
+    }
+  }
+}
+[2026-03-29T14:53:44.902Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0AF15CF2501F377BDF0",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796022,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!squawk",
+    "messageContextInfo": {
+      "messageSecret": "68KdPi0rr6pwyl21aWZsz1hkcAbAwLnMIJ5OLIzx9dA="
+    }
+  }
+}
+[2026-03-29T14:53:55.765Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB069E66EBE0BE55F7E03",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796033,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!atc",
+    "messageContextInfo": {
+      "messageSecret": "pzvmU994DKgAjQ9N5KDiMovnrd4sxRowQD3FdKEWvNE="
+    }
+  }
+}
+[2026-03-29T14:54:35.797Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0730C1D444B3946F006",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796073,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "HCMbUZTFHcEt0jOBOhCNrgdSiEB6m2PgdxVJPIu7C7I="
+    }
+  }
+}
+[2026-03-29T14:54:38.256Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB04CAB374B72C3E3A46C",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796076,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!vspeeds",
+    "messageContextInfo": {
+      "messageSecret": "+1vY3DmUvUoLx3NRaXvY5lnmle/4e16qUEdXthaOA8Q="
+    }
+  }
+}
+[2026-03-29T14:54:44.557Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB01EFB934BDC538317A9",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796082,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!schedule",
+    "messageContextInfo": {
+      "messageSecret": "ovrcZAEBts3NYFtcYfD841pXW1hlqQpQ1krYDDWQJPU="
+    }
+  }
+}
+[2026-03-29T14:54:46.873Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0B481F14D8B351B0C19",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796084,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!join",
+    "messageContextInfo": {
+      "messageSecret": "fJXqnzH8AHZ2pzUPlWqPyhSnL3rFjdc8kVoukHdG2IQ="
+    }
+  }
+}
+[2026-03-29T14:54:50.877Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB06D931339C690650F11",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796088,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!rules",
+    "messageContextInfo": {
+      "messageSecret": "pFkIJZvRkTZj8gV8zZ+HNMelF/4DfVea3byw8FRsoPk="
+    }
+  }
+}
+[2026-03-29T14:54:55.330Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB09A20B95EDC38CF05B6",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796093,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!leaderboard",
+    "messageContextInfo": {
+      "messageSecret": "gAJTWc2YQ8N8RxSvVTm4cj9tW+75zcE0CRK+AxubzuU="
+    }
+  }
+}
+[2026-03-29T14:55:00.815Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0D485215E49FA84E7DD",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796098,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!taxi",
+    "messageContextInfo": {
+      "messageSecret": "LQ4SgO98xJEgMxjQewvJ5aEc8raaXp8rbQYFtCOE6Eg="
+    }
+  }
+}
+[2026-03-29T14:55:02.929Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0407DC68FA69C811167",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796100,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!takeoff",
+    "messageContextInfo": {
+      "messageSecret": "OacIykVLjYsbqXNvGpX70NgIawiQ3aaeD5YIa2p/vNk="
+    }
+  }
+}
+[2026-03-29T14:55:06.882Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB02458D5B65F22657745",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796104,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!altitude",
+    "messageContextInfo": {
+      "messageSecret": "0kG908liWEJiHg39Uy5yieEPsbwMcYEW5wj861NGkk4="
+    }
+  }
+}
+[2026-03-29T14:55:12.725Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0EE8BF70A5E1B58890B",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796110,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!heading",
+    "messageContextInfo": {
+      "messageSecret": "hH0ewPGIAUDITyUrFupZ+l9Rmz55++qSxe1P50hBxBU="
+    }
+  }
+}
+[2026-03-29T14:55:14.807Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB02775AA59FB0F6F43CE",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796112,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!landing",
+    "messageContextInfo": {
+      "messageSecret": "dU3I2/sJX0f3JGbjKpGtD5SuuF0jtCiOBTXHCLF+e18="
+    }
+  }
+}
+[2026-03-29T14:55:16.505Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB00B99CA23671C3ADF0F",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796114,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!coms",
+    "messageContextInfo": {
+      "messageSecret": "ZQ79F9Zq5dCW6k098Il8/b6X0sgAjS8ZhfmHY8c2FGk="
+    }
+  }
+}
+[2026-03-29T14:55:21.597Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB01749B2C7CDCC94A65C",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796119,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!sessions",
+    "messageContextInfo": {
+      "messageSecret": "5XZMh/oRQnF/hgn6EWnm24EXsGEYzgz8advxQzgutqg="
+    }
+  }
+}
+[2026-03-29T14:55:26.225Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E481304CF9A3C4ACD3",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796124,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!tips",
+    "messageContextInfo": {
+      "messageSecret": "a/qKDus0LWyelIwaqBIpVygywg2cPi60F1s5VOV0P9A="
+    }
+  }
+}
+[2026-03-29T14:55:27.857Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB02C0C08327C831C7614",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796125,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!plane",
+    "messageContextInfo": {
+      "messageSecret": "c70YyUYYRt/hcMZew+Fb6Mcijbb8wKJW9jLeiEelew0="
+    }
+  }
+}
+[2026-03-29T14:55:30.262Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0F89FD775C0A13BB454",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796128,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!route",
+    "messageContextInfo": {
+      "messageSecret": "eAvuF4XLJzjLcDhgiGyuemC0cBykkYrDDvG04Px3E80="
+    }
+  }
+}
+[2026-03-29T14:55:32.876Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E79F35335D58741116",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796130,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!ping",
+    "messageContextInfo": {
+      "messageSecret": "2iIljiw1bfO7/atRPYPfb0IvEUI/O02htWRCnpxFyuA="
+    }
+  }
+}
+[2026-03-29T14:55:35.845Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0ED77E33329A0E4DCCF",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796133,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!id",
+    "messageContextInfo": {
+      "messageSecret": "oAGM4TeFtnjm2SAZRDN7TjVXO8A6J7BehWFKta96iL4="
+    }
+  }
+}
+[2026-03-29T14:55:39.209Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB01795DA4A52970F01DD",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796137,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!weather",
+    "messageContextInfo": {
+      "messageSecret": "Xtv6rHoNz2abREKmyjEE1JHeAMsrvwAToQ9hfjZ/CJQ="
+    }
+  }
+}
+[2026-03-29T14:55:41.528Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0CF61C296CF58B62B31",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796139,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!incident",
+    "messageContextInfo": {
+      "messageSecret": "92FH6LW6F19H03+QeLVxZ1lic0cYC2PG9NXeBgtmKlY="
+    }
+  }
+}
+[2026-03-29T14:55:46.184Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB01372750623FEF50BF0",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796144,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!randompilot",
+    "messageContextInfo": {
+      "messageSecret": "+lonmyRROu1WfEhYxiXwXX61Msv5lODsTl5dKE1cCLQ="
+    }
+  }
+}
+[2026-03-29T14:55:53.177Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0A3AF07EA3A18FEA488",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796151,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!certificate",
+    "messageContextInfo": {
+      "messageSecret": "98IRTo0z29tYPavBDog4mVjeRkRZCd2Jp6soSbQC6Ro="
+    }
+  }
+}
+[2026-03-29T14:55:57.320Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0D0DE63622ADBF79F48",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796155,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!badge",
+    "messageContextInfo": {
+      "messageSecret": "4m8tDHfuRVwrpQqV7/WD5/KpGEZSPmLPLovFPi+fY9M="
+    }
+  }
+}
+[2026-03-29T14:56:00.282Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB03D1B7D325DEF0DDA85",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796158,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!map",
+    "messageContextInfo": {
+      "messageSecret": "G1xwspjseq4FelpoKpnbXVv9RkajJIPJzUy3WZu5D7k="
+    }
+  }
+}
+[2026-03-29T14:56:05.452Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0AE9873CC6F79901734",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796163,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!promote",
+    "messageContextInfo": {
+      "messageSecret": "gTfHObF1ZdJghJWxRseRU7drTOXvOsDOB59v6UDH1ns="
+    }
+  }
+}
+[2026-03-29T14:56:07.311Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0E7DBC0BC6D3E8FD03D",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796165,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!demote",
+    "messageContextInfo": {
+      "messageSecret": "xXaJOnU+B4qibuSKoAfWtaogtF/jhyoxW4fyp+gOmVo="
+    }
+  }
+}
+[2026-03-29T14:56:13.702Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB07A1585980DAF82BC07",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796171,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!reset",
+    "messageContextInfo": {
+      "messageSecret": "tnAGpumendkszt3Hx6iK5x++CGu/YkhSNWyQMJp+vi4="
+    }
+  }
+}
+[2026-03-29T14:56:15.852Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB091D09B05595765ED30",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796173,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!warn",
+    "messageContextInfo": {
+      "messageSecret": "xG7xJS5odaiKIEEhnecOSe4rMYrNDk5dxuu4+cwwtaQ="
+    }
+  }
+}
+[2026-03-29T14:56:19.363Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0AFBCAB0A8AD1E154F5",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796177,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!kick",
+    "messageContextInfo": {
+      "messageSecret": "bKGgDHSZKkMI/Q88htMmCfiVcqJE+I0vumWGqZVPpiM="
+    }
+  }
+}
+[2026-03-29T14:56:21.940Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0C0E0B2B61F22CAA687",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796179,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!shutdown",
+    "messageContextInfo": {
+      "messageSecret": "hsXpYRhMcCRlsX2Mzy6s9OkS+8I2MUgbsm029v+swYA="
+    }
+  }
+}
+[2026-03-29T14:56:24.651Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0913B350083A29DF2EA",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796182,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!notam",
+    "messageContextInfo": {
+      "messageSecret": "/VOcPtR7/EBqzF18zNlvmj92U4MCg0lgHU1p/l5BBxY="
+    }
+  }
+}
+[2026-03-29T14:56:27.496Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0725A3B12AAC2AF7D06",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796185,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!meatar",
+    "messageContextInfo": {
+      "messageSecret": "36FmGlrvrXJhbj21i5s6vBc9+ckIyh7kTxT+NuSBlm0="
+    }
+  }
+}
+[2026-03-29T14:56:35.598Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB00D0B78651D32491FB5",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796193,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!squawk",
+    "messageContextInfo": {
+      "messageSecret": "UgrZt6W3FGW5pJiyAw5jdc+cNuXzYoOVpElGh9ap7XM="
+    }
+  }
+}
+[2026-03-29T14:56:40.047Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB09F16B6617030E8A236",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796198,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!vector",
+    "messageContextInfo": {
+      "messageSecret": "kQ3RXRoqCsyq3BI4RrTxn+2BNDLk3uoRiJlfjCipSUQ="
+    }
+  }
+}
+[2026-03-29T14:56:43.017Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0C82B16D967C72E8BEF",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796200,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!checkride",
+    "messageContextInfo": {
+      "messageSecret": "fswO6+Y1oWM7lXdP/g7EN/PbPoKWqAMy3OcwmYmqsmE="
+    }
+  }
+}
+[2026-03-29T14:56:44.850Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB075CCFEBC2F65B24817",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796202,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!fuel",
+    "messageContextInfo": {
+      "messageSecret": "xfIQwlQJLxtvIigCX5Qal4OjQ97fkZfy3z3GgnTtLPE="
+    }
+  }
+}
+[2026-03-29T14:56:46.695Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0A268A22DEEF96009E2",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796204,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!atc",
+    "messageContextInfo": {
+      "messageSecret": "lvmXlpayPEP50PIMfxZ1FqH3E/BjZOzPzq3+y44HIt0="
+    }
+  }
+}
+[2026-03-29T14:56:49.323Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0F37039B5F16BCDF673",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796207,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!roger",
+    "messageContextInfo": {
+      "messageSecret": "I/U9a/p1cI0zLr80xVZRoekCbtaNt9FYpkPw6YeTiBc="
+    }
+  }
+}
+[2026-03-29T14:56:54.747Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB01EF9E37BD5E42141D8",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796212,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!help",
+    "messageContextInfo": {
+      "messageSecret": "ePGKFP2nE2ur+/TIAmdSd88Y9uvEOH6DfGW6uYMr1ls="
+    }
+  }
+}
+[2026-03-29T14:59:10.569Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "ACD6B4D4804CEB5873384CE71F0D07E1",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796348,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!comms",
+    "messageContextInfo": {
+      "messageSecret": "UlrCSh8x+lkLURFN40XtjHGn0zxOBAQecwsy3uHxR64="
+    }
+  }
+}
+[2026-03-29T14:59:45.250Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC78B93D63A05F0CDFFF53FCE95B1A33",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796383,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "zagOntsJfx+MggJOB+Rw8RxsiLJqliXbaP9M4H9ZGRg="
+    }
+  }
+}
+[2026-03-29T14:59:59.274Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "ACEF843F74A21FF13672C57FF67ADFCF",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796397,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!wilco",
+    "messageContextInfo": {
+      "messageSecret": "bWQWqkYXglnh7XcGe9+SZj0Bocz1dz6Y9tgvUqeqEAI="
+    }
+  }
+}
+[2026-03-29T15:00:02.798Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC275340CDE17E7BDC811F14DB6C988D",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796400,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!roger",
+    "messageContextInfo": {
+      "messageSecret": "bY3nYWmGZX3/htlpZIQxYJ600zCG4h3cC7KSolIMv/M="
+    }
+  }
+}
+[2026-03-29T15:01:24.224Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB061391D7BB779486963",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796481,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!comms",
+    "messageContextInfo": {
+      "messageSecret": "vH9U3XOfPcbI5pMXQcVZEJimlcmpGJf5kqVs7naqPQs="
+    }
+  }
+}
+[2026-03-29T15:02:58.942Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0DB786B9744D7E74B12",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796576,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!metar\n!squawk\n!vector\n!promote 123456\n!menu\n!uptime",
+    "messageContextInfo": {
+      "messageSecret": "YUxJtgwSKrL4sXz9mxp6NgY4bX1kuF85wnqS1GeNxMo="
+    }
+  }
+}
+[2026-03-29T15:03:06.208Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0A2A977AB38DFC15E06",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796584,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!squawk",
+    "messageContextInfo": {
+      "messageSecret": "A5BIRmGCIVCuWUFRqCvxBWYdxWdvQr4ix+Lg7i/1Lpo="
+    }
+  }
+}
+[2026-03-29T15:03:16.000Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB08C08D1CE8E814C610A",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796593,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!vector",
+    "messageContextInfo": {
+      "messageSecret": "GUikAGDDVSlQxx3JQiKTk8ZlaN/e4q3t+Js/0IZnvbg="
+    }
+  }
+}
+[2026-03-29T15:03:21.819Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB081F161DEE552C9D5E7",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796599,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!promote 123456",
+    "messageContextInfo": {
+      "messageSecret": "Mbz80psOIZ7+Eyb/tEIPA1rJgw5LjPtXfuDzXlzIBxk="
+    }
+  }
+}
+[2026-03-29T15:03:25.186Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0B942F74A00FE1BFCE8",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796603,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!menu",
+    "messageContextInfo": {
+      "messageSecret": "g3Ps1x5/4DmAcLls41hnF+d14cGSfkuFF2aXOEoCnS4="
+    }
+  }
+}
+[2026-03-29T15:03:30.480Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0A403B950D5E78C76B7",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774796608,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!uptime",
+    "messageContextInfo": {
+      "messageSecret": "UT8sREE0ZzAwA5gs1zQJJCCrRu5yVXMfi1YmcPKrrLM="
+    }
+  }
+}
+[2026-03-29T15:10:44.228Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0EB6434743006E897B5",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774797041,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!score 5",
+    "messageContextInfo": {
+      "messageSecret": "ZKvD/a3ufLPHjI/MMrwzlQqbuzTCBsyR/IjvvW2nnx4="
+    }
+  }
+}
+[2026-03-29T15:10:55.377Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB055CC610026A5703D5E",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774797053,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "!score 5",
+    "messageContextInfo": {
+      "messageSecret": "2y4y2muSbXEOoSc5l+GsKlsMMlzc+Ed1wKEr9KhuiqY="
+    }
+  }
+}
+[2026-03-29T15:11:08.077Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": false,
+    "id": "AC45771AE0AA0AAB4FF0F868DCBC70DF",
+    "participant": "146102489714894@lid",
+    "participantAlt": "447562494901@s.whatsapp.net",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774797065,
+  "pushName": "ѕтσяму! 💙",
+  "broadcast": false,
+  "message": {
+    "conversation": "!stats",
+    "messageContextInfo": {
+      "messageSecret": "0j2vehMuw5Mwn5LRugsEm0II5fy0ViS9akSbjlf6HyM="
+    }
+  }
+}
+[2026-03-29T15:11:10.458Z] {
+  "key": {
+    "remoteJid": "120363407526125638@g.us",
+    "fromMe": true,
+    "id": "3EB0DEB2E04C1247C1E2EA",
+    "participant": "39114334281885@lid",
+    "addressingMode": "lid"
+  },
+  "messageTimestamp": 1774797068,
+  "pushName": "Ted",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "!score 5 @146102489714894",
+      "contextInfo": {
+        "mentionedJid": [
+          "146102489714894@lid"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "VcYwnaxQ8rO8WwhYwVmcJBsQ582kGAk63mDI9neH/Xw="
+    }
+  }
+}
